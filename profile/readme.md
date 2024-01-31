@@ -1,6 +1,5 @@
 ![banner](https://raw.githubusercontent.com/SucklessWindows/artworks/main/banner.png)
-
-An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
+<p align="center">An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.</p>
 
 # 🤔 Why Suckless Windows
 ## 🚀 Optimize Performance
