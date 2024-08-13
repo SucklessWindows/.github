@@ -1,4 +1,4 @@
-![banner](https://github.com/TheOnlyChuon/SW-Fork/blob/main/.github/Uni-SucklessWindows.png?raw=true "Hey! I know that it's look like 'Suckloss Windows', but the 'e' is literally Edge logo, so we can call it Microsoft's fault XD")
+![banner](https://github.com/SucklessWindows/SucklessWindows/blob/main/.github/Uni-SucklessWindows.png?raw=true "Hey! I know that it's look like 'Suckloss Windows', but the 'e' is literally Edge logo, so we can call it Microsoft's fault XD")
 An open-source and lightweight modification method to Windows, designed to optimize performance, privacy and usability.
 > Friendly note: SucklessWindows is not related to [suckless.org](https://suckless.org)
 
